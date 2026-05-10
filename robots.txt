@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://wpmsmartwonkey.me
+Sitemap: https://wpmsmartwonkey.me/sitemap.xml
